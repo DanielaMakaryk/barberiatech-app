@@ -17,4 +17,4 @@ Atención Automatizada: Redirección directa a canales de soporte y consulta de 
 🛠️ Tecnologías utilizadas:
 HTML5, CSS3 y JavaScript puro (Manipulación dinámica del DOM y control de estados de los turnos). Node.js (Entorno de ejecución).
 
-* Proyecto para el curso de Desarrollo Full Stack - Talento Tech (2024).
+*Proyecto para el curso de Desarrollo Full Stack - Talento Tech (2024)*
